@@ -112,6 +112,14 @@ Front 파일	완료
 nginx (TOD)	미구성
 Java 런타임	확인 필요
 
+## Java Runtime
+
+- Java 11: installed
+
+- Java 17: installed
+
+- Architecture: ARM64 (OCI A1)
+
 ⸻
 
 9. 리스크
